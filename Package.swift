@@ -1,3 +1,7 @@
+//
+// Copyright (c) 2026 Coderkube Technologies - NetworkKit. All rights reserved.
+//
+
 // swift-tools-version: 6.2
 import PackageDescription
 

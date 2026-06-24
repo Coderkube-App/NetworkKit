@@ -1,3 +1,7 @@
+//
+// Copyright (c) 2026 Coderkube Technologies - NetworkKit. All rights reserved.
+//
+
 import XCTest
 import Alamofire
 @testable import NetworkKit
